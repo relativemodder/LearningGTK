@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.github.relative.learninggtk
+Exec=@bindir@/learninggtk --gapplication-service

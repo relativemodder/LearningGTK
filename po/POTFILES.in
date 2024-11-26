@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/com.github.relative.learninggtk.desktop.in
+data/com.github.relative.learninggtk.metainfo.xml.in
+data/com.github.relative.learninggtk.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

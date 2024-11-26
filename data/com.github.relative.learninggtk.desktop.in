@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=learninggtk
+Exec=learninggtk
+Icon=com.github.relative.learninggtk
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
